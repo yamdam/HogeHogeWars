@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HogeWars.Plugins", "HogeWars.Plugins.csproj", "{77D010FF-C745-FDA4-9FED-6209AC4D5EC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HogeWars", "HogeWars.csproj", "{EFA7F7B2-C683-1B90-ED35-7C03CA2A6CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77D010FF-C745-FDA4-9FED-6209AC4D5EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D010FF-C745-FDA4-9FED-6209AC4D5EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D010FF-C745-FDA4-9FED-6209AC4D5EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D010FF-C745-FDA4-9FED-6209AC4D5EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA7F7B2-C683-1B90-ED35-7C03CA2A6CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA7F7B2-C683-1B90-ED35-7C03CA2A6CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA7F7B2-C683-1B90-ED35-7C03CA2A6CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA7F7B2-C683-1B90-ED35-7C03CA2A6CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
